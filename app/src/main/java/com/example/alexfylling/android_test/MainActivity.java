@@ -18,10 +18,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Toast.makeText(getApplicationContext(), "Hey My World", Toast.LENGTH_SHORT).show();
-                
-                
-                
-                //// TODO: 26.08.2016  
+
+
             }
         });
     }
